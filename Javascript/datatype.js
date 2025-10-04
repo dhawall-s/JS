@@ -96,3 +96,6 @@ let ob={
 ob.pasand='bahut pyaar'
 console.log(ob.name)
 console.log(ob.pasand)
+
+//object reference store karte hain separate copy nhi banti ek hi copy mein change hota hain
+
