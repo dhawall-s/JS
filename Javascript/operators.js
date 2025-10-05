@@ -76,3 +76,4 @@ console.log(1>null)
 
 console.log(10>'10a')
 //koi bhi type ko compare karna hain toh dono number mein convert hoge
+
