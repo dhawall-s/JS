@@ -24,3 +24,21 @@ console.log(text.slice(4));
 
 console.log(text.slice(-6));
 
+const f_name = "Dhawal";
+
+const l_name = "Saini";
+
+const full_name = f_name + " " + l_name;
+console.log(full_name);
+
+console.log(full_name.replace("Dhawal", "Saini"));
+console.log(full_name.replaceAll("Dhawal", "Saini"));
+console.log(full_name);
+
+let userinput = "  dhawalsaini0909@gmail.com    ";
+let cleaned = userinput.trim();
+console.log(cleaned);
+console.log(userinput);
+
+const names = "Rohit , Rahul , Dhawal , Anjali , Pappu , Mamta";
+console.log(names.split(","));
