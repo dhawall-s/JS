@@ -16,3 +16,11 @@ console.log(str.toUpperCase());
 console.log(str.indexOf("Ar"));
 
 console.log(str.includes("Army"));
+
+let text = "JavaScript";
+console.log(text.slice(4, 6));
+
+console.log(text.slice(4));
+
+console.log(text.slice(-6));
+
