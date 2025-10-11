@@ -35,7 +35,10 @@ let arr2 = [10, 30, 50, 90, 11];
 
 let arr3=[10,20,30,40,50]
 arr2=arr3
-
 arr2[1]=999
 console.log(arr2)
 console.log(arr3)
+
+// const a=[10,20,30]
+// a=[20]
+// console.log(a)
