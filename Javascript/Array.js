@@ -23,3 +23,19 @@ console.log(arr);
 
 // arr.pop(-1);
 // console.log(arr);
+
+let arr2 = [10, 30, 50, 90, 11];
+// for (let i = 0; i < arr2.length; i++) {
+//   console.log(arr2[i]);
+// }
+
+// for (let num of arr2) {
+//   console.log(num);
+// }
+
+let arr3=[10,20,30,40,50]
+arr2=arr3
+
+arr2[1]=999
+console.log(arr2)
+console.log(arr3)
