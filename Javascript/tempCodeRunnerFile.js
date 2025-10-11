@@ -1,3 +1,3 @@
-x=x+y
-// x=x*y
-// x=y/x
+
+// arr.pop(-1);
+// console.log(arr);
